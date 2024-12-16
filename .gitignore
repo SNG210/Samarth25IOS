@@ -1,0 +1,9 @@
+/Logs/
+/Library/
+/obj/
+/Temp/
+/UserSettings/
+/.vsconfig
+/Assembly-CSharp.csproj
+/RubiksRunner.sln
+/UpgradeLog.htm
